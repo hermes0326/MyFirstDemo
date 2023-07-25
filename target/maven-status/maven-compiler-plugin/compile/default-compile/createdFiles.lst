@@ -1,0 +1,4 @@
+com\yunhe\collector\SwitchText.class
+com\yunhe\test01\MyInterceptor.class
+com\yunhe\test01\MyInterceptor$buildEvent.class
+com\yunhe\collector\SwitchText$BuilderEvent.class
